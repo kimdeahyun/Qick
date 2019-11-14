@@ -8,7 +8,7 @@ int compare(const void* a, const void* b) {
 }
 
 int main() {
- int v[] = {3,1,2,5,4}; 
+ int v[] = {130,120,160,140,150}; 
 int n; qsort(v, 5, sizeof(int), compare); 
 for (n = 0; n < 5; n++) 
 printf("%d ", v[n]); 
