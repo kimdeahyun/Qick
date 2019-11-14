@@ -1,4 +1,4 @@
-# Qick
+# Qick short
 
 #include <stdio.h>
 #include <stdlib.h>
